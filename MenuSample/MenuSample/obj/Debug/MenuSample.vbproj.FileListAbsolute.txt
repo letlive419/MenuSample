@@ -1,0 +1,13 @@
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\obj\Debug\MenuSample.vbprojAssemblyReference.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\obj\Debug\MenuSample.frmMain.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\obj\Debug\MenuSample.Resources.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.GenerateResource.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.CoreCompileInputs.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\bin\Debug\MenuSample.exe
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\bin\Debug\MenuSample.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\bin\Debug\MenuSample.xml
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\obj\Debug\MenuSample.xml
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\obj\Debug\MenuSample.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\sample-3---menu-sample-ecruz107\MenuSample\MenuSample\obj\Debug\MenuSample.frmAbout.resources
